@@ -1,2 +1,4 @@
-include ':app'
+include ':lib_video'
+include ':lib_audio'
+include ':ddmusic'
 rootProject.name = "DDMusic"
